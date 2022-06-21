@@ -1,6 +1,6 @@
 ## word
 
-A tiny program which can scrap definition of various kinds of word.
+A tiny program which can scrap definition of various kind of words.
 
 #### Screenshot
 ![image](https://user-images.githubusercontent.com/71683721/174860011-c2662129-fdc4-4065-821a-68b09a65d357.png)
