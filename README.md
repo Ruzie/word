@@ -27,5 +27,5 @@ cd word && chmod +x build.sh
 
 Pack and redistribute .tar.xz (or you can do gzip) file
 ```sh
-tar cf word.tar out/word && xz -z /out/word
+tar cf word.tar out/word && xz -z word.tar
 ```
